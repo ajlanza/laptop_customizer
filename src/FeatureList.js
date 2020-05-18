@@ -27,6 +27,6 @@ export default class FeatureList extends Component {
             {options}
           </fieldset>
         );
-      });
+    });
   }
 }
